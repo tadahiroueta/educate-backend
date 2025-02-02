@@ -1,4 +1,4 @@
-# E-ducate
+# E-ducate Backend
 
 <div style="text-align:center;">
   <img src="https://github.com/tadahiroueta/educate-frontend/blob/master/public/logo.png" alt="logo" />
