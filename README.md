@@ -1,7 +1,7 @@
 # E-ducate
 
 <div style="text-align:center;">
-  <img src="https://github.com/tadahiroueta/educate-frontend/blob/master/public/logo.png" alt="logo" />
+  <img src="https://github.com/tadahiroueta/educate-frontend/blob/main/public/logo.png" alt="logo" />
 </div>
 
 ***Educational help platform***
@@ -23,39 +23,39 @@
 
 ## Features
 
-![welcome page](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/welcome-page.png)
+![welcome page](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/welcome-page.png)
 
 ### Crowd Sourced Learning
 
-![flashcard dashboard](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/flashcard-dashboard.png)
+![flashcard dashboard](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/flashcard-dashboard.png)
 
 Users can create and share flashcard sets for fellow students.
 
-![flashcard](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/flashcard-create.png)
+![flashcard](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/flashcard-create.png)
 
 ### Blogs
 
 E-ducate supplies a collection of informative articles on the education system in America.
 
-![blog dashboard](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/blog-dashboard.png)
+![blog dashboard](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/blog-dashboard.png)
 
 ### Database
 
 We have implemented a Mongo database to dynamically grow the platforms resources.
 
-![MongoDB](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/mongo-db.png)
+![MongoDB](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/mongo-db.png)
 
 ### Backend Server API
 
 An independent backend server API is used to handle all database requests.
 
-![backend server](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/backend.png)
+![backend server](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/backend.png)
 
 ### UI/UX Design
 
 All of the UI/UX was designed in [Figma](https://www.figma.com/) for prototyping.
 
-![Figma design](https://github.com/tadahiroueta/educate-documentation/blob/master/screenshots/figma-design.png)
+![Figma design](https://github.com/tadahiroueta/educate-documentation/blob/main/screenshots/figma-design.png)
 
 ## Contribute
 
